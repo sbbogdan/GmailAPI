@@ -1,4 +1,4 @@
-# GmailAPI
+# GmailAPI - Send Email sample
 
 Send email sample using the Gmail API. Google provided various samples that had to be stitched together in order to get this to work. I wrote a small app, stitching together those samples with a little bit of extra glue, conciseness. I also inject an HTML file as an inline html body.
 

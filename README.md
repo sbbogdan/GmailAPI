@@ -1,4 +1,4 @@
-# GmailAPI - send email end to end sample
+# GmailAPI - send email end to end sample (Python)
 
 Send email sample using the Gmail API.
 
